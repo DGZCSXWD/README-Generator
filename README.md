@@ -15,14 +15,17 @@ Download the file to your local computer.
 
 Install the required dependencies by running the following command: 
 
+```bash
 npm install
-
+```
 
 ## Usage
 
 To use this application, run the following command:
 
+```bash
 node index.js
+```
 
 Then follow the prompts to enter the required information for your project's README.
 
